@@ -1,4 +1,4 @@
-This reo contains test files to diagnose incremental build issues.
+This repo contains test files to diagnose incremental build issues.
 
 For .NET 5.0:
 
